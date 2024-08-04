@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Web Developer",
+    "organisation": "Bharat Intern",
+    "startDate": "July, 2023",
+    "endDate": "August, 2023",
+    "location": "India",
+    "experiences": [
+      "Worked on Frontend Designing"
+    ],
+    "imageSrc": "/company/Bharat_Intern.png"
+  },
+  {
+    "id": 2,
+    "role": "Full Stack Developer",
+    "organisation": "Celebal Technologies",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "location": "Remote",
+    "experiences": [
+      "Worked on Developing and Testing Full Stack React Applications"      
+    ],
+    "imageSrc": "company/CT.jpg"
+  }
+]
